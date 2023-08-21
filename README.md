@@ -70,15 +70,12 @@
 
 
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
-Akansha Mishra
+Sweety Rani
 
 ## Contact
 
 
-- Email: akanshamishra617@gmail.com
+- Email: sweetyrani005@gmail.com
